@@ -1,5 +1,7 @@
 # Olá! Eu sou o Robert 👋
 
+<p>Tenho 17 anos, moro em Guarulhos - SP<br>Estou a procura de novas experiências no mercado de trabalho</p>
+
 
 
 <div>
