@@ -1,6 +1,6 @@
 # Olá! Eu sou o Robert 👋
 
-<p>Tenho 19 anos, moro em Guarulhos - SP<br><br>Sou técnico de Desenvolvimento de Sistemas, formado no SENAI e estou estudando Análise e Desenvolvimento de Sistemas atualmente, e busco por experiências nesta área, já tendo conhecimento em algumas linguagens; para banco de dados, conheço o SQL Server. Pretendo trabalhar como Desenvolvedor BackEnd, podendo atuar também como Desenvolvedor FullStack. Tenho nível de Inglês intermediário e sou apaixonado por aprender novas culturas, além claro, de estar sempre aberto a novas oportunidades no mercado de trabalho.<br><br>Já fiz diversos extracurriculares, como: LGPD, Logística, Economia circular e Finanças pessoais.<br><br>Gosto de assistir filmes e de praticar vários esportes.</p>
+<p>Tenho 20 anos, moro em Guarulhos - SP<br><br>Sou técnico de Desenvolvimento de Sistemas, formado no SENAI e estou estudando Análise e Desenvolvimento de Sistemas atualmente, e busco por experiências nesta área, já tendo conhecimento em algumas linguagens; para banco de dados, conheço o SQL Server. Pretendo trabalhar como Desenvolvedor BackEnd, podendo atuar também como Desenvolvedor FullStack. Tenho nível de Inglês intermediário e sou apaixonado por aprender novas culturas, além claro, de estar sempre aberto a novas oportunidades no mercado de trabalho.<br><br>Já fiz diversos extracurriculares, como: LGPD, Logística, Economia circular e Finanças pessoais.<br><br>Gosto de assistir filmes e de praticar vários esportes.</p>
 
 
 
