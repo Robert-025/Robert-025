@@ -1,6 +1,6 @@
 # Olá! Eu sou o Robert 👋
 
-<p>Tenho 20 anos, moro em Guarulhos - SP<br><br>Sou técnico de Desenvolvimento de Sistemas, formado no SENAI e estou estudando Análise e Desenvolvimento de Sistemas atualmente, e busco por experiências nesta área, já tendo conhecimento em algumas linguagens; para banco de dados, conheço o SQL Server. Pretendo trabalhar como Desenvolvedor BackEnd, podendo atuar também como Desenvolvedor FullStack. Tenho nível de Inglês intermediário e sou apaixonado por aprender novas culturas, além claro, de estar sempre aberto a novas oportunidades no mercado de trabalho.<br><br>Já fiz diversos extracurriculares, como: LGPD, Logística, Economia circular e Finanças pessoais.<br><br>Gosto de assistir filmes e de praticar vários esportes.</p>
+<p>Tenho 21 anos, moro em Guarulhos - SP<br><br>Sou técnico de Desenvolvimento de Sistemas, formado no SENAI e estou estudando Análise e Desenvolvimento de Sistemas atualmente, e busco por experiências nesta área, já tendo conhecimento em algumas linguagens; para banco de dados, conheço o SQL Server. Pretendo trabalhar como Desenvolvedor BackEnd, podendo atuar também como Desenvolvedor FullStack. Tenho nível de Inglês intermediário e sou apaixonado por aprender novas culturas, além claro, de estar sempre aberto a novas oportunidades no mercado de trabalho.<br><br>Já fiz diversos extracurriculares, como: LGPD, Logística, Economia circular e Finanças pessoais.<br><br>Gosto de assistir filmes e de praticar vários esportes.</p>
 
 
 
@@ -24,7 +24,7 @@
  
 <div>
   <a href="mailto:robert.sena25@gmail.com" target="_blank"><img srcimg="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/eosenax/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/robert-sena-santos-940724210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/eosenaxx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/robert-sena-940724210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="http://api.whatsapp.com/send?phone=5511989508374"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
