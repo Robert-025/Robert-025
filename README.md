@@ -1,14 +1,6 @@
 # Olá! Eu sou o Robert 👋
 
 <p>Tenho 22 anos, moro em Guarulhos - SP<br><br>Sou graduado em Análise e Desenvolvimento de Sistemas, formado no Centro Universitário de Tecnologia Carlos Drummond de Andrade e técnico em Desenvolvimento de Sistemas pelo SENAI, e busco por vagas nesta área. Já tenho conhecimento em algumas linguagens, como C#, Java, JavaScript e outras; para banco de dados, conheço o SQL Server. Pretendo trabalhar como Desenvolvedor, podendo atuar como Desenvolvedor FullStack ou BackEnd. Tenho nível de Inglês avançado e sou apaixonado por aprender novas culturas, além claro, de estar sempre aberto a novas oportunidades no mercado de trabalho.<br><br>Já fiz diversos extracurriculares, como: LGPD, Logística, Economia circular e Finanças pessoais.
-
-
-
-<div>
-    <a href="https://github.com/Robert-025">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Robert-025&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robert-025&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
 <div display="inline_block"><br>
   <img align="center" alt="Robert-Html" height="30" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
