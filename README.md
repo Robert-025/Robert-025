@@ -1,6 +1,6 @@
 # Olá! Eu sou o Robert 👋
 
-<p>Tenho 21 anos, moro em Guarulhos - SP<br><br>Sou graduado em Análise e Desenvolvimento de Sistemas, formado no Centro Universitário de Tecnologia Carlos Drummond de Andrade e técnico em Desenvolvimento de Sistemas pelo SENAI, e busco por vagas nesta área. Já tenho conhecimento em algumas linguagens, como C#, Java, JavaScript e outras; para banco de dados, conheço o SQL Server. Pretendo trabalhar como Desenvolvedor, podendo atuar como Desenvolvedor FullStack ou BackEnd. Tenho nível de Inglês avançado e sou apaixonado por aprender novas culturas, além claro, de estar sempre aberto a novas oportunidades no mercado de trabalho.<br><br>Já fiz diversos extracurriculares, como: LGPD, Logística, Economia circular e Finanças pessoais.
+<p>Tenho 22 anos, moro em Guarulhos - SP<br><br>Sou graduado em Análise e Desenvolvimento de Sistemas, formado no Centro Universitário de Tecnologia Carlos Drummond de Andrade e técnico em Desenvolvimento de Sistemas pelo SENAI, e busco por vagas nesta área. Já tenho conhecimento em algumas linguagens, como C#, Java, JavaScript e outras; para banco de dados, conheço o SQL Server. Pretendo trabalhar como Desenvolvedor, podendo atuar como Desenvolvedor FullStack ou BackEnd. Tenho nível de Inglês avançado e sou apaixonado por aprender novas culturas, além claro, de estar sempre aberto a novas oportunidades no mercado de trabalho.<br><br>Já fiz diversos extracurriculares, como: LGPD, Logística, Economia circular e Finanças pessoais.
 
 
 
